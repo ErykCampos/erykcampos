@@ -1,6 +1,6 @@
 ### Olá eu sou o Eryk Campos 👋
 
-- 🔭 Procurando minha primeira oportunidade.
+- 🔭 Procurando minha primeira oportunidade como Developer.
 - 🌱 Em formação de Desenvolvimento WEB front-end
 - 📫 Contate-me no email: eryk.forte@hotmail.com
 - 😄 Pronouns: ele/dele
