@@ -3,7 +3,7 @@
 - 🔭 Procurando minha primeira oportunidade como Developer.
 - 🌱 Em formação de Desenvolvimento Web / Java
 - 📫 Contate-me no email: eryk.forte@hotmail.com
-- 😄 Pronouns: ele/dele
+- 📱 Me chamno Whatsapp! (11) 94007-9198
 
  <div>
   <a href="https://github.com/ErykCampos">
