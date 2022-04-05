@@ -1,7 +1,7 @@
 ### Olá eu sou o Eryk Campos 👋
 
 - 🔭 Procurando minha primeira oportunidade como Developer.
-- 🌱 Em formação de Desenvolvimento Java
+- 🌱 Em formação de Desenvolvimento Web/Java
 - 📫 Contate-me no email: eryk.forte@hotmail.com
 - 📱 Me chama no Whatsapp! (11) 94007-9198
 
